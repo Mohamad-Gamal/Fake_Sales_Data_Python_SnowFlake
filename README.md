@@ -1,7 +1,8 @@
 # Fake_Sales_Data_Python_SnowFlake
 ## Data Warehouse & Business Intelligence (DWBI) Project
 
-https://github.com/user-attachments/assets/d001a05f-e1ff-4617-8bc1-b9c9ffed1096
+![Animation](https://github.com/user-attachments/assets/80d10d76-d517-4560-a788-d39116d38485)
+
 
   Overview
   
